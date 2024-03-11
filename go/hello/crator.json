@@ -1,8 +1,0 @@
-{
-    "vars": [
-        {
-            "name": "ProjectName",
-            "prompt": "Enter Project Name"
-        }
-    ]
-}
