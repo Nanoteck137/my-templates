@@ -1,0 +1,15 @@
+Todo {
+    id string;
+    content string;
+    done bool;
+}
+
+GetTodos {
+    todos []Todo;
+}
+
+PostTodos :: Todo {}
+
+GetTodoById :: Todo {}
+
+PutTodoById :: Todo {}
